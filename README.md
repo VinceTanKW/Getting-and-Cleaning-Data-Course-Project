@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README
 ========
 
@@ -21,3 +22,6 @@ You can download the above files at
 Unzip files to create "./UCI HAR Dataset" folder which will hold these files.
 
 Package required for the script is dplyr version 0.2 and above. 
+=======
+# Getting-and-Cleaning-Data-Course-Project
+>>>>>>> 325b491b2a5cf557d69bfc434ffda3f4eb4a8adb
